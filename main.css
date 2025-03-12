@@ -28,25 +28,13 @@ li {
     margin-left: 80%;
     color: #3E2A35;
 }
-a:link {
+a:link, a:visited {
     color: #3E2A35;
     background-color: transparent;
     text-decoration: none;
 }
 
-a:visited {
-    color: #3E2A35;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #3E2A35;
-    background-color: transparent;
-    text-decoration: underline;
-}
-
-a:active {
+a:hover, a:active {
     color: #3E2A35;
     background-color: transparent;
     text-decoration: underline;
