@@ -14,6 +14,21 @@ h1 {
     margin-bottom: 2px;
     display: inline;
 }
+.h1a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+}
+.h1b {
+    color: #D6DBD2;
+    font-family: fantasy;
+}
+.h1c {
+    color: #D6DBD2;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    font-style: italic;
+}
 p {
     color: #3E2A35;
     margin: 2%;
@@ -21,10 +36,48 @@ p {
     text-align: justify;
     font-style: italic;
 }
+.p1 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.p2 {
+    color: #D6DBD2;
+    font-family: fantasy;
+}
+.p3 {
+    color: #D6DBD2;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
 summary {
     color: #3E2A35;
 font-family: cursive;
 font-size: 30px;
+}
+.summary1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+}
+.summary2 {
+    color: #D6DBD2;
+    font-family: fantasy;
+    font-size: 50px;
+}
+.summary3 {
+    color: #D6DBD2;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 50px;
+}
+.summary4 {
+    color: #D6DBD2;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: left;
 }
 li {
     font-family: cursive;
@@ -32,6 +85,13 @@ li {
     margin-right: 2%;
     margin-left: 80%;
     color: #3E2A35;
+}
+.ul1 {
+    margin-left: 70%;
+    margin-right: 2%;
+}
+.ul2 {
+margin-left: 2%;
 }
 a:link, a:visited {
     color: #3E2A35;
