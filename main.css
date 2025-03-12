@@ -21,3 +21,33 @@ summary {
 font-family: cursive;
 font-size: 30px;
 }
+li {
+    font-family: cursive;
+    font-size: 30px;
+    margin-right: 2%;
+    margin-left: 80%;
+    color: #3E2A35;
+}
+a:link {
+    color: #3E2A35;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #3E2A35;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3E2A35;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #3E2A35;
+    background-color: transparent;
+    text-decoration: underline;
+}
